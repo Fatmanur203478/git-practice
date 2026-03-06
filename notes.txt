@@ -1,1 +1,2 @@
 bugün git tekrarı yapıyorum.
+github üzerinden satır eklendi.
